@@ -30,3 +30,26 @@
 >dotnet new console
 
 >dotnet run
+
+
+https://dotnet.microsoft.com/en-us/learn
+
+https://dotnet.microsoft.com/en-us/learntocode
+
+
+### C# Microsoft Learn
+[C# ML](https://learn.microsoft.com/en-us/dotnet/csharp/)
+
+### C# documentation
+[C# Docs](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+
+### Learn to code C#
+[Learn to Code](https://dotnet.microsoft.com/en-us/learntocode)
+
+### Learn C#
+
+[Learn C#](https://dotnet.microsoft.com/en-us/learn/csharp)
+
+### C# Advanced
+
+[C# Advance](https://learn.microsoft.com/en-us/shows/c-advanced/)
