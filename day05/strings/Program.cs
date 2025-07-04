@@ -9,5 +9,7 @@ string fullName = firstName + " " + lastNameName;
 
 //Console.WriteLine(firstName + " " + lastNameName);
 Console.WriteLine(fullName);
+Console.WriteLine(fullName);
+
 
 
