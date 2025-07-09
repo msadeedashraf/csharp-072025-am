@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if_else_switch", "if_else_switch\if_else_switch.csproj", "{B75F2EFC-4920-457A-9979-2F3FA0F34B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B75F2EFC-4920-457A-9979-2F3FA0F34B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75F2EFC-4920-457A-9979-2F3FA0F34B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75F2EFC-4920-457A-9979-2F3FA0F34B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75F2EFC-4920-457A-9979-2F3FA0F34B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9DDC803-5A1E-4656-A37D-E97A1BA8CF28}
+	EndGlobalSection
+EndGlobal
