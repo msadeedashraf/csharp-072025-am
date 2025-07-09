@@ -7,8 +7,6 @@ Console.WriteLine(currentDate.ToString());
 
 int myDay = (int)currentDate.DayOfWeek;
 
-
-
 switch (myDay)
 {
     case 0:
