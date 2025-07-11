@@ -1,42 +1,138 @@
-1. Create a 4 function Calculator ![link](/Assets/Four-Function-Calculator.png)
-2. Create a Program that can help you deposit/withdraw the amount from a Account Balance ![link](/Assets/Bank-Acount-Deposit-Withdrawal.png)
-3. Convert the user temperature from C to F and F to C;
-4. int fahrenheit = 94;
-decimal celsius = (fahrenheit - 32m) * (5m / 9m);
-Console.WriteLine("The temperature is " + celsius + " Celsius.");
+# 🚀 Basic C# Projects for Practicing Fundamentals
+
+---
+
+## 🔥 Assignment 1: Simple Grade Calculator
+
+### ✅ Concepts Covered
+
+- Variables, data types
+- Conditional logic (`if-else`)
+- `switch` statement
+- Ternary operator
+
+### 💡 Description
+
+Write a console application that:
+
+- Takes user input for a student’s marks (0-100).
+- Calculates the letter grade based on the marks.
+- Uses `switch` to print motivational messages.
+- Uses a ternary operator to indicate pass/fail (>50).
+
+### 🎯 Requirements
+
+- Prompt user: `Enter marks (0-100): `
+- Determine grade:
+  - `A` for `90-100`
+  - `B` for `80-89`
+  - `C` for `70-79`
+  - `D` for `60-69`
+  - `E` for `50-59`
+  - `F` for `<50`
+- Use `switch` on the grade character to print messages:
+  - `A` -> "Excellent work!"
+  - `B` -> "Great job!"
+  - `C` -> "Good effort."
+  - `D` -> "Keep trying."
+  - `E` -> "Pass, but needs improvement."
+  - `F` -> "Fail. Better luck next time."
+- Use ternary operator to print: `Pass` or `Fail`.
+
+---
+
+## 🚀 Assignment 2: Number Analyzer
+
+### ✅ Concepts Covered
+
+- Variables, types
+- Loops (`for` or `while`)
+- Conditional logic (`if-else`)
+- Modulus operator `%`
+- Nested conditionals
+
+### 💡 Description
+
+Create a console program that:
+
+- Asks the user how many numbers they want to enter.
+- Takes that many numbers in a loop.
+- For each number, prints whether it is:
+  - Even or odd.
+  - Positive, negative, or zero.
+
+### 🎯 Example Interaction
+
+```
+How many numbers will you enter? 3
+Enter number 1: -5
+-5 is Odd and Negative
+Enter number 2: 0
+0 is Even and Zero
+Enter number 3: 12
+12 is Even and Positive
+```
+
+---
+
+## 💫 Assignment 3: Simple ATM Simulator
+
+### ✅ Concepts Covered
+
+- Variables, data types
+- Loops (`do-while` or `while`)
+- `switch` statement
+- `if-else` for input validation
+- Ternary operator
+
+### 💡 Description
+
+Simulate a basic ATM system:
+
+- Starts with an initial balance (e.g., `$1000`).
+- Repeats a menu until user chooses to exit.
+
+### 🎯 Menu Options
+
+```
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+```
+
+- Use `switch` to handle each option.
+- Ensure:
+  - No negative deposits.
+  - Withdrawal does not exceed balance.
+- Use ternary operator for withdrawal:
+  - Print "Withdrawal successful" or "Insufficient funds".
+
+### 📝 Sample Flow
+
+```
+Your balance is: $1000
+Choose option:
+1. Check Balance
+2. Deposit
+3. Withdraw
+4. Exit
+> 2
+Enter amount to deposit: 200
+Deposit successful. New balance: $1200
+```
+
+---
+
+## ✅ Summary Table
+
+| Project          | Core Concepts Practiced                                   |
+| ---------------- | --------------------------------------------------------- |
+| Grade Calculator | `if-else`, `switch`, `ternary`, variables, input, types   |
+| Number Analyzer  | loops, `if-else`, modulus, nested conditionals, variables |
+| ATM Simulator    | loops, `switch`, `if-else`, `ternary`, input validation   |
+
+---
 
 
-5. Create a class called LibraryBook that represents a book in a library system. The class should have the following properties and methods:
 
-Properties:
-
-Title (string): The title of the book.
-Author (string): The author of the book.
-ISBN (string): The ISBN of the book.
-IsCheckedOut (bool): Tracks whether the book is currently checked out.
-Constructor: Create a constructor that initializes the title, author, and ISBN. By default, set IsCheckedOut to false.
-
-Methods:
-
-CheckOut(): If the book is not already checked out, set IsCheckedOut to true and display a message indicating the book has been checked out. If the book is already checked out, display a message stating it is not available.
-ReturnBook(): If the book is currently checked out, set IsCheckedOut to false and display a message indicating the book has been returned. If the book is already in the library, display a message stating it is already available.
-DisplayBookInfo(): Print the book information, including title, author, ISBN, and whether it is currently available.
-Usage Example:
-
-Create an instance of LibraryBook in a Main method with a sample title, author, and ISBN.
-Call DisplayBookInfo() to display the book details.
-Call CheckOut() and ReturnBook() to test the book's **status** and re-display the information.
-
-Requirements:
-1. Implement the LibraryBook class with the required properties, constructor, and methods.
-2. Ensure that the CheckOut and ReturnBook methods update the IsCheckedOut status correctly.
-3. Test your program by creating a sample book in the Main method and performing a sequence of actions.
-
-Extra Challenge: Add validation in the CheckOut and ReturnBook methods to ensure a book cannot be checked out or returned if it is in an inappropriate state.
-
-6. Final Projects [link](https://www.codewithfaraz.com/csharp-projects?page=1).
-   >Check the projects on the following [link](https://www.codewithfaraz.com/csharp-projects?page=1) and pick any two project and create them.
-   >You can also pick any other project and get is assigned for submission.
-
-
-7. Book Page 300. In the following exercise, you’ll define a simple class hierarchy for modeling different types of vehicles. You’ll define a base class named Vehicle and derived classes named Airplane and Car. You will define common methods named StartEngine and StopEngine in the Vehicle class, and you’ll add some methods to both of the derived classes that are specific to those classes. Finally, you’ll add a virtual method named Drive to the Vehicle class and override the default implementation of this method in both of the derived classes.
