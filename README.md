@@ -53,3 +53,6 @@ https://dotnet.microsoft.com/en-us/learntocode
 ### C# Advanced
 
 [C# Advance](https://learn.microsoft.com/en-us/shows/c-advanced/)
+
+### C# List
+[List Doc](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/list-collection)
