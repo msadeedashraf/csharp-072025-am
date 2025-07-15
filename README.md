@@ -56,3 +56,26 @@ https://dotnet.microsoft.com/en-us/learntocode
 
 ### C# List
 [List Doc](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/list-collection)
+
+## LinkedIn Resources
+
+### Object oriented Programming
+[OOPs](https://www.linkedin.com/learning/programming-foundations-object-oriented-design-3/object-oriented-thinking?resume=false&u=76276940)
+[Advanced C#: Object-Oriented Programming](https://www.linkedin.com/learning/advanced-c-sharp-object-oriented-programming/next-level-c-sharp-oop?u=76276940)
+[Object-Oriented Programming with C#](https://www.linkedin.com/learning/object-oriented-programming-with-c-sharp-17331514/programming-an-object-oriented-text-adventure-game?u=76276940)
+
+### C#: Applied Data Structures
+[DSA](https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126/wrangling-data-in-c-sharp?u=76276940)
+
+### Learning C# Path
+[Learning Path](https://www.linkedin.com/learning/paths/getting-started-as-a-c-sharp-developer?u=76276940)
+
+### Learning C# with Jow Marini
+[Joe Marini](https://www.linkedin.com/learning/instructors/joe-marini?u=76276940)
+
+### Design Patterns
+
+[Part 1](https://www.linkedin.com/learning/c-sharp-design-patterns-part-1-14140825?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a735c55498e9ec2d5060360&u=76276940)
+
+[Part 2](https://www.linkedin.com/learning/c-sharp-design-patterns-part-2-8579116/object-oriented-design-patterns-in-c-sharp-part-2?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5a735c55498e9ec2d5060360&u=76276940)
+
