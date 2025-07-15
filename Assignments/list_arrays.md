@@ -89,3 +89,36 @@ class Program
 - When adding, append to list.
 - When removing, let user enter the task name to remove.
 
+## 🚀 Extra Challenges
+
+### 🔥 Challenge 1: Grocery Price Calculator with Arrays
+- Create a program that:
+  - Stores the names of grocery items in a string array.
+  - Stores their prices in a parallel double array.
+  - Prints each item with its price.
+  - Calculates and prints the total bill.
+- Example output:
+  ```
+  Milk: $2.50
+  Bread: $1.80
+  Eggs: $3.20
+  Total: $7.50
+  ```
+
+### 🔥 Challenge 2: Classroom Attendance with Lists
+- Write a console app to track attendance.
+- Use a `List<string>` to store student names as they enter.
+- Each time the program runs, let the teacher type a student name.
+- If the teacher types "done", stop input and print all names present.
+- Example session:
+  ```
+  Enter student name (or 'done' to finish): Alice
+  Enter student name (or 'done' to finish): Bob
+  Enter student name (or 'done' to finish): done
+
+  Students present today:
+  - Alice
+  - Bob
+  ```
+
+✅ You can extend these challenges by adding sorting, duplicate checks, or writing the data to a file.
