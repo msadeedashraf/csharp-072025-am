@@ -6,17 +6,17 @@
         static void Main(string[] arg)
         {
             //Console.WriteLine("Hello World");
-            Bankaccount accout1 = new Bankaccount("Sadeed","0012311123",500);
-            accout1.CheckBalance();
-            accout1.Deposit(1000);
-            accout1.CheckBalance();
-            accout1.Withdraw(300);
-            accout1.Withdraw(300);
-            accout1.Withdraw(300);
-            accout1.Withdraw(300);
-            accout1.Withdraw(300);
-            accout1.PrintAccountDetails();
-            accout1.Withdraw(300);
+            Bankaccount account1 = new Bankaccount("Sadeed","0012311123",500);
+            account1.CheckBalance();
+            account1.Deposit(1000);
+            account1.CheckBalance();
+            account1.Withdraw(300);
+            account1.Withdraw(300);
+            account1.Withdraw(300);
+            account1.Withdraw(300);
+            account1.Withdraw(300);
+            account1.PrintAccountDetails();
+            account1.Withdraw(300);
 
 
 
