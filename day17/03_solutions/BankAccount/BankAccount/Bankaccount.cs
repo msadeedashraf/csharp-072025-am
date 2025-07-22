@@ -31,7 +31,7 @@ namespace BankAccount
             /* TODO */
             if (amount > balance)
             {
-                Console.WriteLine("Insufficent Balance");
+                Console.WriteLine("Insufficient Balance");
             }
             else
             {
