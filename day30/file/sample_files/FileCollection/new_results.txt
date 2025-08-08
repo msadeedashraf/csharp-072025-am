@@ -1,0 +1,19 @@
+~~~~ Results ~~~~
+Total Files: 15
+Total Size: 2,966,151 bytes
+
+XLSX Count: 4
+XLSX Size: 74,262 bytes
+
+DOCX Count: 5
+DOCX Size: 1,196,567 bytes
+
+PPTX Count: 3
+PPTX Size: 1,403,482 bytes
+
+TXT Count: 2
+TXT Size: 33 bytes
+
+JPG Count: 1
+JPG Size: 291,807 bytes
+
